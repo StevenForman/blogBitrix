@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ea92e95d-9a0d-4833-ac63-ac7a3f517dd7" name="opencart" url="http://medvedb2.beget.tech">
+        <fileTransfer rootFolder="/home/m/medvedb2" accessType="SFTP" host="medvedb2.beget.tech" port="22" sshConfigId="bfc25dfa-18d2-4483-83cb-3e092cf65ce4" sshConfig="medved72_steve@medved72.beget.tech">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
